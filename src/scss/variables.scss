@@ -1,0 +1,54 @@
+/* Typography */
+
+%title1 {
+	font-size: 24px;
+	font-weight: 600;
+	font-family: 'Poppins', sans-serif;
+}
+
+%title2 {
+	font-size: 18px;
+	font-weight: 600;
+	font-family: 'Poppins', sans-serif;
+}
+
+%title3 {
+	font-size: 16px;
+	font-weight: 600;
+	font-family: 'Poppins', sans-serif;
+}
+
+%body {
+	font-size: 14px;
+	font-weight: 400;
+	font-family: 'Poppins', sans-serif;
+}
+
+%button {
+	font-size: 14px;
+	font-weight: 500;
+	font-family: 'Poppins', sans-serif;
+}
+
+/* Text colors */
+
+$textPrimaryColor: #1f1f1f;
+$textMutedColor: #696c71;
+$textSecondaryColor: #9f9f9f;
+$textInvertedColor: #ffffff;
+$textStatusInaccessibleColor: #ef3835;
+$textStatusAvailableColor: #008844;
+
+/* Button colors */
+
+$buttonPrimaryColor: #5e992f;
+$buttonPrimaryPressColor: #4e8027;
+$buttonPrimaryDisabledColor: #d0d0d0;
+
+/* Control colors */
+
+$controlBorderColor: #c4c8d0;
+$controlFocusColor: #4e8027;
+$controlErrorColor: #aa0000;
+$controlActiveBackgroundColor: #ffffff;
+$controlDisabledBackgroundColor: #f6f6f6;
